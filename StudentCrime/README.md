@@ -1,0 +1,1 @@
+# Implementation of RecyclerView.Adapter is still under development
